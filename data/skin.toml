@@ -2,6 +2,7 @@
 # restart hugo after change this value
 theme_light_chroma = "default"
 theme_dark_chroma = "default"
+theme_dracula_chroma = "default"
 theme_hacker_chroma = "default"
 theme_solarized_chroma = "default"
 theme_kimbie_chroma = "default"
@@ -10,6 +11,7 @@ theme_kimbie_chroma = "default"
 # restart hugo after change this value
 theme_light_chroma_background = "default"
 theme_dark_chroma_background = "default"
+theme_dracula_chroma_background = "default"
 theme_hacker_chroma_background = "default"
 theme_solarized_chroma_background = "default"
 theme_kimbie_chroma_background = "default"
